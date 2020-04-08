@@ -4,5 +4,6 @@ list=[1,2,3,4]
 # list=["byte","tube"]
 # list.extend("dal")
 # print(list)
-list.remove(10,100)
+list.remove(11,100)
 print(len(list))
+
