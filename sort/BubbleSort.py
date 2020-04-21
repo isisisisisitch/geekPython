@@ -11,7 +11,7 @@ while num>0:
             num_list[j]=num_list[j+1]
             num_list[j+1] = temp
 
-    num-=1
+    num-=1#1已经排好序的数
 
 
 print(num_list)

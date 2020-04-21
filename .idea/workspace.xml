@@ -2,78 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7453c8c-de4d-4043-8fad-6df7abb2de67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dic/DictDemo02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dic/dictDemo01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/ListDemo04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/ListDemo05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/ListDemo06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/ListDemo07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/ListDemo08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/ListDemo09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/ListDemo10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/ListDemo11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/ListDemo12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/BubbleSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/InsertSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/SelectionSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuple/tupleDemo01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuple/tupleDemo02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/BubbleSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/listpractice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/listpractice02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/listpractice03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/listpractice04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/listpractice05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/listpractice06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/listpractice07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/listpractice08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/listpractice09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/listpractice10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set/Num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set/SetDemo01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python08.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python08.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/Demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/Demo01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/Print.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/Print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/Type.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/Type.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/TypeReverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/TypeReverse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/input.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if/01_ifBasic.py" beforeDir="false" afterPath="$PROJECT_DIR$/if/01_ifBasic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if/02_ifAndElse.py" beforeDir="false" afterPath="$PROJECT_DIR$/if/02_ifAndElse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if/03_ififElse.py" beforeDir="false" afterPath="$PROJECT_DIR$/if/03_ififElse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if/04_bus.py" beforeDir="false" afterPath="$PROJECT_DIR$/if/04_bus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if/05_guess.py" beforeDir="false" afterPath="$PROJECT_DIR$/if/05_guess.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if/DateCheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/if/DateCheck.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list/ListDemo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/ListDemo02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list/ListDemo03.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/ListDemo03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list/listDemo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/listDemo01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/01_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/01_while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/For9*9.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/For9*9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/ForElse.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/ForElse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/ForForPractice1.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/ForForPractice1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/ForForPractice2.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/ForForPractice2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/ForPractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/ForPractice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/ForPractice2.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/ForPractice2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/GetMax.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/GetMax.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/LoopPractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/LoopPractice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/LoopPractice2.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/LoopPractice2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/WhileElse.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/WhileElse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/breakDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/breakDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/whilePractice2.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/whilePractice2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/whilePractice3.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/whilePractice3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/whilePractice4.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/whilePractice4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/whilePractice5.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/whilePractice5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/whilepractice1.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/whilepractice1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo03.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo04.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo05.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo06.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo07.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo08.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo09.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo10.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo11.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo12.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo13.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo14.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo15.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo16.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo17.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo18.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo19.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/BubbleSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sort/BubbleSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/InsertSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sort/InsertSort.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,9 +51,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homework" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/tuple" />
       <recent name="$PROJECT_DIR$/tupleDemo01" />
@@ -127,8 +78,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DictDemo02">
-    <configuration name="DictDemo02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.InsertSort">
+    <configuration name="InsertSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python08" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,12 +87,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sort" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dic/DictDemo02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sort/InsertSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="StrDemo01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="listpractice07" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python08" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,12 +109,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/str" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/str/StrDemo01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/listpractice07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dictDemo01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="listpractice08" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python08" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -180,12 +131,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dic/dictDemo01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/listpractice08.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tupleDemo01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="listpractice09" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python08" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,12 +153,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tuple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuple/tupleDemo01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/listpractice09.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tupleDemo02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="listpractice10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python08" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,12 +175,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tuple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuple/tupleDemo02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/listpractice10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.DictDemo02" />
-        <item itemvalue="Python.dictDemo01" />
-        <item itemvalue="Python.tupleDemo02" />
-        <item itemvalue="Python.tupleDemo01" />
-        <item itemvalue="Python.StrDemo01" />
+        <item itemvalue="Python.InsertSort" />
+        <item itemvalue="Python.listpractice10" />
+        <item itemvalue="Python.listpractice09" />
+        <item itemvalue="Python.listpractice08" />
+        <item itemvalue="Python.listpractice07" />
       </list>
     </recent_temporary>
   </component>
@@ -267,6 +218,8 @@
       <workItem from="1586384301798" duration="1353000" />
       <workItem from="1586461450122" duration="7255000" />
       <workItem from="1586970041397" duration="6136000" />
+      <workItem from="1587065734820" duration="2503000" />
+      <workItem from="1587497886420" duration="8222000" />
     </task>
     <task id="LOCAL-00001" summary="add new code">
       <created>1586385697129</created>
@@ -282,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586385906236</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add new code">
+      <created>1587065811505</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587065811505</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,16 +253,18 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add new code" />
     <MESSAGE value="modify code" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify code" />
+    <MESSAGE value="add new code" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new code" />
   </component>
   <component name="WindowStateProjectService">
     <state x="344" y="60" key="CommitChangelistDialog2" timestamp="1586385905940">
@@ -377,9 +339,11 @@
     <state x="296" y="204" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/3360.-11.1920.1057/40.23.1400.877/1440.23.1920.1057@40.23.1400.877" timestamp="1585338737511" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python08$Num.coverage" NAME="Num Coverage Results" MODIFIED="1587068247765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/set" />
     <SUITE FILE_PATH="coverage/python08$input.coverage" NAME="input Coverage Results" MODIFIED="1584484366472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$StrDemo17.coverage" NAME="StrDemo17 Coverage Results" MODIFIED="1585778687222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
     <SUITE FILE_PATH="coverage/python08$Type.coverage" NAME="Type Coverage Results" MODIFIED="1584480401497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python08$listpractice07.coverage" NAME="listpractice07 Coverage Results" MODIFIED="1587501657364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
     <SUITE FILE_PATH="coverage/python08$02_ifAndElse.coverage" NAME="02_ifAndElse Coverage Results" MODIFIED="1584564628163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$Demo01.coverage" NAME="Demo01 Coverage Results" MODIFIED="1584479249281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$03_ififElse.coverage" NAME="03_ififElse Coverage Results" MODIFIED="1584565879325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -388,15 +352,20 @@
     <SUITE FILE_PATH="coverage/python08$StrDemo10.coverage" NAME="StrDemo10 Coverage Results" MODIFIED="1585695612661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
     <SUITE FILE_PATH="coverage/python08$StrDemo16.coverage" NAME="StrDemo16 Coverage Results" MODIFIED="1585778470072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
     <SUITE FILE_PATH="coverage/python08$ListDemo04.coverage" NAME="ListDemo04 Coverage Results" MODIFIED="1586462138579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
+    <SUITE FILE_PATH="coverage/python08$listpractice10.coverage" NAME="listpractice10 Coverage Results" MODIFIED="1587502106186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/python08$listpractice08.coverage" NAME="listpractice08 Coverage Results" MODIFIED="1587501730065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
     <SUITE FILE_PATH="coverage/python08$StrDemo04.coverage" NAME="StrDemo04 Coverage Results" MODIFIED="1585687811220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
     <SUITE FILE_PATH="coverage/python08$StrDemo05.coverage" NAME="StrDemo05 Coverage Results" MODIFIED="1585691413383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
     <SUITE FILE_PATH="coverage/python08$01_while.coverage" NAME="01_while Coverage Results" MODIFIED="1585171753278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$ListDemo05.coverage" NAME="ListDemo05 Coverage Results" MODIFIED="1586462529468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
     <SUITE FILE_PATH="coverage/python08$ListDemo11.coverage" NAME="ListDemo11 Coverage Results" MODIFIED="1586464640180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
     <SUITE FILE_PATH="coverage/python08$whilePractice2.coverage" NAME="whilePractice2 Coverage Results" MODIFIED="1585172047622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python08$InsertSort.coverage" NAME="InsertSort Coverage Results" MODIFIED="1587508546040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort" />
     <SUITE FILE_PATH="coverage/python08$StrDemo11.coverage" NAME="StrDemo11 Coverage Results" MODIFIED="1585695765407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
+    <SUITE FILE_PATH="coverage/python08$listpractice09.coverage" NAME="listpractice09 Coverage Results" MODIFIED="1587501921308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
     <SUITE FILE_PATH="coverage/python08$ListDemo06.coverage" NAME="ListDemo06 Coverage Results" MODIFIED="1586462687030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
     <SUITE FILE_PATH="coverage/python08$StrDemo03.coverage" NAME="StrDemo03 Coverage Results" MODIFIED="1585687347897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
+    <SUITE FILE_PATH="coverage/python08$listpractice03.coverage" NAME="listpractice03 Coverage Results" MODIFIED="1587500348633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
     <SUITE FILE_PATH="coverage/python08$whilePractice5.coverage" NAME="whilePractice5 Coverage Results" MODIFIED="1585340314390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$ForForPractice1.coverage" NAME="ForForPractice1 Coverage Results" MODIFIED="1585341494551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$ListDemo12.coverage" NAME="ListDemo12 Coverage Results" MODIFIED="1586464920204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
@@ -416,6 +385,7 @@
     <SUITE FILE_PATH="coverage/python08$whilePractice4.coverage" NAME="whilePractice4 Coverage Results" MODIFIED="1585175720764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$LoopPractice2.coverage" NAME="LoopPractice2 Coverage Results" MODIFIED="1585347191549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$StrDemo01.coverage" NAME="StrDemo01 Coverage Results" MODIFIED="1586970057659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
+    <SUITE FILE_PATH="coverage/python08$SetDemo01.coverage" NAME="SetDemo01 Coverage Results" MODIFIED="1587067051397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/set" />
     <SUITE FILE_PATH="coverage/python08$04_bus.coverage" NAME="04_bus Coverage Results" MODIFIED="1584571565030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$GetMax.coverage" NAME="GetMax Coverage Results" MODIFIED="1585348091092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$ListDemo07.coverage" NAME="ListDemo07 Coverage Results" MODIFIED="1586462797429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
@@ -424,6 +394,7 @@
     <SUITE FILE_PATH="coverage/python08$ForForPractice2.coverage" NAME="ForForPractice2 Coverage Results" MODIFIED="1585344534198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$ForPractice.coverage" NAME="ForPractice Coverage Results" MODIFIED="1585338460204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$StrDemo13.coverage" NAME="StrDemo13 Coverage Results" MODIFIED="1585773715843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
+    <SUITE FILE_PATH="coverage/python08$listpractice.coverage" NAME="listpractice Coverage Results" MODIFIED="1587499848631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
     <SUITE FILE_PATH="coverage/python08$ListDemo08.coverage" NAME="ListDemo08 Coverage Results" MODIFIED="1586462929855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
     <SUITE FILE_PATH="coverage/python08$StrDemo02.coverage" NAME="StrDemo02 Coverage Results" MODIFIED="1585687182095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
     <SUITE FILE_PATH="coverage/python08$For9_9.coverage" NAME="For9*9 Coverage Results" MODIFIED="1585342030221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
