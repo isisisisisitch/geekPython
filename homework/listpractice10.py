@@ -5,18 +5,17 @@
 # list=[6,15,7]
 
 
-
-
 import random
-list=[1,2,3,4,5,6,7]
-randnum=random.randint(1,len(list))
+
+list = [1, 2, 3, 4, 5, 6, 7]
+randnum = random.randint(1, len(list))
 print(randnum)
-i=0
-if randnum%2==0:
-    while i < int((len(list) / randnum)+1):
+i = 0
+if randnum % 2 == 0:
+    while i < int((len(list) / randnum) + 1):
         list1 = list[i:i + randnum]
         num = 0
-        if len(list1)<randnum:
+        if len(list1) < randnum:
             break
         for j in list1:
             num += j
@@ -25,10 +24,10 @@ if randnum%2==0:
         list.insert(i, num)
         i += 1
 else:
-    while i < (len(list) / randnum) :
+    while i < (len(list) / randnum):
         list1 = list[i:i + randnum]
         num = 0
-        if len(list1)<randnum:
+        if len(list1) < randnum:
             break
         for j in list1:
             num += j
