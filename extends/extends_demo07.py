@@ -2,18 +2,18 @@
 #子类使用父类的方法:实现子类自己的逻辑
 class Master(object):
     def __init__(self):
-        self.kongfu = '[古法煎饼果子配方]'
+        self.kongfu = '[Master method]'
 
     def make_cake(self):
-        print(f'运用{self.kongfu}制作煎饼果子')
+        print(f'{self.kongfu} to make cake')
 
 
 class School(Master):
     def __init__(self):
-        self.kongfu = '[bytetube煎饼果子配方]'
+        self.kongfu = '[bytetube method]'
 
     def make_cake(self):
-        print(f'运用{self.kongfu}制作煎饼果子')
+        print(f'{self.kongfu} to make cake')
 
         # 方法2.1
         # super(School, self).__init__()
@@ -26,14 +26,18 @@ class School(Master):
 
 class Prentice(School,Master):
     def __init__(self):
-        self.kongfu = '[独创煎饼果子技术]'
+        self.kongfu = '[original method]'
 
     def make_cake(self):
         self.__init__()
-        print(f'运用{self.kongfu}制作煎饼果子')
-        super().__init__()
+        print(f'{self.kongfu} to make cake')
+       # super().__init__()
         super().make_cake()
 
+
+prentice = Prentice()
+
+prentice.make_cake()
     # 子类调用父类的同名方法和属性：把父类的同名属性和方法再次封装
     # def make_master_cake(self):
     #     Master.__init__(self)
@@ -60,6 +64,3 @@ class Prentice(School,Master):
 
 
 
-daqiu = Prentice()
-
-daqiu.make_cake()
