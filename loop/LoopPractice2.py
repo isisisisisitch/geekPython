@@ -1,6 +1,9 @@
-#4,5,6,7   xxx
-for a in range(4,8):
-    for b in range(4,8):
-        for c in range(4, 8):
-            if a!=b and b!=c and c!=a:
-                print(f'{a}{b}{c}')
+# #4,5,6,7   xxx
+# for a in range(4,8):
+#     for b in range(4,8):
+#         for c in range(4, 8):
+#             if a!=b and b!=c and c!=a:
+#                 print(f'{a}{b}{c}')
+
+str = "1111111"
+print(str.count("111"))

@@ -4,7 +4,7 @@ from StudentAccountManageSystem.student import Student
 class managementSystem(object):
 
     def __init__(self):
-        self.student_list = []
+        self.student_list = []#保存用户信息
 
 
     def run(self):
@@ -27,7 +27,7 @@ class managementSystem(object):
                 print(self.query_student_by_name())
 
             elif num == 5:
-                self.showw_all()
+                self.show_all()
 
             elif num == 6:
                 self.save_student()
@@ -65,7 +65,7 @@ class managementSystem(object):
         gender = input("plz input student' gender")
         grade = input("plz input student' grade")
 
-        student = Student(name,gender,grade)
+        student = Student(name,gender,grade)#constructor
         self.student_list.append(student)
 
         #print(self.student_list)
@@ -103,7 +103,7 @@ class managementSystem(object):
         return "no such student!"
 
 
-    def showw_all(self):
+    def show_all(self):
         for i in self.student_list:
             print(f'name : {i.name}, gender:{i.gender}, grade: {i.grade}')
     #保存数据
@@ -119,9 +119,10 @@ class managementSystem(object):
     #加载数据
     def load_student(self):
         f = open('studentinfo.data', 'r')
-        data = f.read()
-        new_list = eval(data)
+        data = f.read()#每次读一个数据
+        new_list = eval(data)#str
         self.student_list = [Student(i['name'],i['gender'],i['grade']) for i in new_list]
         print(self.student_list)
 
         f.close()
+

@@ -21,3 +21,7 @@ print(type(h))
     # key   ： value：（unit）entry  dict
 g = {'name': 'TOM', 'age': 20}
 print(type(g))
+
+list1 = [10, 20, 30]
+t_val = tuple(list1)
+print(type(t_val))

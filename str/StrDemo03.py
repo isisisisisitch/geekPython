@@ -1,8 +1,9 @@
-# str="hello" \
-#     "world"
-# print(str)
-
-str=""" hello 
- world
-"""
+str="hello" \
+    "world"
 print(str)
+
+# str="""
+# hello
+# world
+# """
+# print(str)
