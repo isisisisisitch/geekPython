@@ -6,7 +6,7 @@ class Singleton(object):
 
     def __init__(self):
         if not Singleton.__instance:
-            print("__int__ method called")
+            print("__init__ method called")
         else:
             print("instance obj already exist!",self.get_instacne())
 
@@ -23,6 +23,7 @@ class Singleton(object):
 
 s1 = Singleton()
 
-print("first obj created",Singleton.get_instacne() )
+print("first obj created",s1.get_instacne() )
 
 s2 = Singleton()
+print("second obj created",s2.get_instacne() )

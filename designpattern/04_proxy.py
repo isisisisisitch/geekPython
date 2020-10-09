@@ -1,67 +1,20 @@
-#proxy
+# name = "abcdefg"
+# #序列[开始位置下标:结束位置下标:步长]
+# print(name[2:5:1])  # cde
+# print(name[2:5])  # cde
+# print(name[:5])  # abcde
+# print(name[1:])  # bcdefg
+# print(name[:])  # abcdefg
+# print(name[::2])  # aceg
+# print(name[:-1])  # abcdef, 负1表示倒数第一个数据
+# print(name[-4:-1])  # def
+# print(name[::-1])  # gfedcba
 
-from abc import ABC,abstractmethod
+def remove_kIndex_from_str(str,index):
 
-class Payment(ABC):
-
-    @abstractmethod
-    def make_payment(self):
-        pass
-
-
-#real obj
-class Bank(Payment):
-    def __init__(self):
-        self.account = None
-        self.card = None
-
-
-    def has_funds(self):
-        return True
+    left_part = str[0:index]
+    right_part = str[index+1:]
+    return left_part + right_part
 
 
-
-    def get_account(self):
-        self.account = self.card
-        return  self.account
-
-    def make_payment(self):
-        if self.has_funds():
-            print("payed")
-        else:
-            print("rejected")
-
-
-    def set_card(self,num):
-        print("debit card no. "+ num+ " accepted")
-
-
-#proxy
-
-class Debit_card(Payment):
-
-    def __init__(self):
-        self.bank = Bank()
-
-    def make_payment(self):
-        num = input("enter your debit card #:")
-        self.bank.set_card(num)
-        self.bank.make_payment()
-
-
-class Client:
-
-    def  __init__(self):
-        print("buy stuff")
-        self.debit_card = Debit_card()
-
-    def buy(self):
-        self.debit_card.make_payment()
-
-
-
-client = Client()
-client.buy()
-
-
-
+print(remove_kIndex_from_str("bytetube",2))

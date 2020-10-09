@@ -2,28 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7453c8c-de4d-4043-8fad-6df7abb2de67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basic/WhileDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpattern/01_hungry_singleton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpattern/02_lazy_singleton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpattern/03_factory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpattern/04_proxy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpattern/05_obersever.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/Washer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/first_html.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/polyDemo05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repositorySystem/Bulb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repositorySystem/Light.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repositorySystem/System.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repositorySystem/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/Singleton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/process/01_multi_process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/process/_02_procees_id.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/process/_03_process_args.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentAccountManageSystem/managementSystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/StudentAccountManageSystem/managementSystem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/Type.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/Type.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function/AccountSystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/function/AccountSystem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/LoopPractice2.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/LoopPractice2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/oop1.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/oop1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo03.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str/StrDemo19.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/StrDemo19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designpattern/02_lazy_singleton.py" beforeDir="false" afterPath="$PROJECT_DIR$/designpattern/02_lazy_singleton.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designpattern/04_proxy.py" beforeDir="false" afterPath="$PROJECT_DIR$/designpattern/04_proxy.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,8 +71,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.05_obersever">
-    <configuration name="01_singleton" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python._03_process_args">
+    <configuration name="01_multi_process" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python08" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,56 +80,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/designpattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/process" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/designpattern/01_hungry_singleton.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="02_lazy_singleton" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python08" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/designpattern" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/designpattern/02_lazy_singleton.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="03_factory" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python08" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/designpattern" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/designpattern/03_factory.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/process/01_multi_process.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_obersever" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Singleton" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python08" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,12 +124,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/designpattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/designpattern/05_obersever.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/Singleton.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_02_procees_id" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python08" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/process" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/process/_02_procees_id.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_03_process_args" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python08" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/process" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/process/_03_process_args.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05_obersever" />
+        <item itemvalue="Python._03_process_args" />
+        <item itemvalue="Python._02_procees_id" />
+        <item itemvalue="Python.01_multi_process" />
         <item itemvalue="Python.04_proxy" />
-        <item itemvalue="Python.03_factory" />
-        <item itemvalue="Python.02_lazy_singleton" />
-        <item itemvalue="Python.01_singleton" />
+        <item itemvalue="Python.Singleton" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +247,12 @@
       <workItem from="1595802923194" duration="2365000" />
       <workItem from="1596209249763" duration="8184000" />
       <workItem from="1596408907419" duration="210000" />
-      <workItem from="1596474079123" duration="6687000" />
+      <workItem from="1596474079123" duration="6874000" />
+      <workItem from="1596811016498" duration="10436000" />
+      <workItem from="1597078704508" duration="3786000" />
+      <workItem from="1597458844687" duration="28000" />
+      <workItem from="1598370254003" duration="118000" />
+      <workItem from="1602106195109" duration="2839000" />
     </task>
     <task id="LOCAL-00001" summary="add new code">
       <created>1586385697129</created>
@@ -334,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591914647564</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add dp">
+      <created>1596484643235</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1596484643235</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,7 +359,8 @@
     <MESSAGE value="add poly" />
     <MESSAGE value="add exception" />
     <MESSAGE value="add studentsystem" />
-    <option name="LAST_COMMIT_MESSAGE" value="add studentsystem" />
+    <MESSAGE value="add dp" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dp" />
   </component>
   <component name="WindowStateProjectService">
     <state x="344" y="60" key="CommitChangelistDialog2" timestamp="1586385905940">
@@ -449,11 +447,6 @@
           <line>44</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/designpattern/02_lazy_singleton.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -461,7 +454,8 @@
     <SUITE FILE_PATH="coverage/python08$input.coverage" NAME="input Coverage Results" MODIFIED="1584484366472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$ExceptionDemo01.coverage" NAME="ExceptionDemo01 Coverage Results" MODIFIED="1591040504397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exception" />
     <SUITE FILE_PATH="coverage/python08$polyDemo02.coverage" NAME="polyDemo02 Coverage Results" MODIFIED="1595804233935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/poly" />
-    <SUITE FILE_PATH="coverage/python08$04_proxy.coverage" NAME="04_proxy Coverage Results" MODIFIED="1596483660528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/designpattern" />
+    <SUITE FILE_PATH="coverage/python08$_02_procees_id.coverage" NAME="_02_procees_id Coverage Results" MODIFIED="1602107980930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/process" />
+    <SUITE FILE_PATH="coverage/python08$04_proxy.coverage" NAME="04_proxy Coverage Results" MODIFIED="1597083890339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/designpattern" />
     <SUITE FILE_PATH="coverage/python08$extends_demo06.coverage" NAME="extends_demo06 Coverage Results" MODIFIED="1589853919963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/extends" />
     <SUITE FILE_PATH="coverage/python08$oop1.coverage" NAME="oop1 Coverage Results" MODIFIED="1595632634029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
     <SUITE FILE_PATH="coverage/python08$MutiParams.coverage" NAME="MutiParams Coverage Results" MODIFIED="1588010477479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
@@ -478,6 +472,7 @@
     <SUITE FILE_PATH="coverage/python08$StrDemo05.coverage" NAME="StrDemo05 Coverage Results" MODIFIED="1585691413383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
     <SUITE FILE_PATH="coverage/python08$ListDemo05.coverage" NAME="ListDemo05 Coverage Results" MODIFIED="1586462529468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
     <SUITE FILE_PATH="coverage/python08$whilePractice2.coverage" NAME="whilePractice2 Coverage Results" MODIFIED="1585172047622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python08$_03_process_args.coverage" NAME="_03_process_args Coverage Results" MODIFIED="1602108430796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/process" />
     <SUITE FILE_PATH="coverage/python08$InsertSort.coverage" NAME="InsertSort Coverage Results" MODIFIED="1587508546040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort" />
     <SUITE FILE_PATH="coverage/python08$unpack.coverage" NAME="unpack Coverage Results" MODIFIED="1588010738609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
     <SUITE FILE_PATH="coverage/python08$Scope.coverage" NAME="Scope Coverage Results" MODIFIED="1588008954021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
@@ -491,6 +486,7 @@
     <SUITE FILE_PATH="coverage/python08$ListDemo12.coverage" NAME="ListDemo12 Coverage Results" MODIFIED="1586464920204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
     <SUITE FILE_PATH="coverage/python08$Dp05_Proxy.coverage" NAME="Dp05_Proxy Coverage Results" MODIFIED="1596231856453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/designpattern" />
     <SUITE FILE_PATH="coverage/python08$ExtendsDemo13.coverage" NAME="ExtendsDemo13 Coverage Results" MODIFIED="1591037129202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/extends" />
+    <SUITE FILE_PATH="coverage/python08$01_multi_process.coverage" NAME="01_multi_process Coverage Results" MODIFIED="1602106791177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/process" />
     <SUITE FILE_PATH="coverage/python08$StrDemo18.coverage" NAME="StrDemo18 Coverage Results" MODIFIED="1585778953428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
     <SUITE FILE_PATH="coverage/python08$extends_demo04.coverage" NAME="extends_demo04 Coverage Results" MODIFIED="1589849822680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/extends" />
     <SUITE FILE_PATH="coverage/python08$polyDemo01.coverage" NAME="polyDemo01 Coverage Results" MODIFIED="1590702941209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/poly" />
@@ -532,7 +528,7 @@
     <SUITE FILE_PATH="coverage/python08$02_ifAndElse.coverage" NAME="02_ifAndElse Coverage Results" MODIFIED="1584564628163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$Dog.coverage" NAME="Dog Coverage Results" MODIFIED="1589492492826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
     <SUITE FILE_PATH="coverage/python08$ListDemo10.coverage" NAME="ListDemo10 Coverage Results" MODIFIED="1586463862202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
-    <SUITE FILE_PATH="coverage/python08$Singleton.coverage" NAME="Singleton Coverage Results" MODIFIED="1596209347530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/designpattern" />
+    <SUITE FILE_PATH="coverage/python08$Singleton.coverage" NAME="Singleton Coverage Results" MODIFIED="1596818230635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
     <SUITE FILE_PATH="coverage/python08$StrDemo10.coverage" NAME="StrDemo10 Coverage Results" MODIFIED="1585695612661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
     <SUITE FILE_PATH="coverage/python08$extends_demo02.coverage" NAME="extends_demo02 Coverage Results" MODIFIED="1589848326127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/extends" />
     <SUITE FILE_PATH="coverage/python08$StrDemo16.coverage" NAME="StrDemo16 Coverage Results" MODIFIED="1585778470072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
@@ -567,7 +563,7 @@
     <SUITE FILE_PATH="coverage/python08$forpractice1.coverage" NAME="whilepractice1 Coverage Results" MODIFIED="1585171998848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$Params.coverage" NAME="Params Coverage Results" MODIFIED="1588009942338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
     <SUITE FILE_PATH="coverage/python08$extendsDemo09.coverage" NAME="extendsDemo09 Coverage Results" MODIFIED="1590544974165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/extends" />
-    <SUITE FILE_PATH="coverage/python08$02_lazy_singleton.coverage" NAME="02_lazy_singleton Coverage Results" MODIFIED="1596477369565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/designpattern" />
+    <SUITE FILE_PATH="coverage/python08$02_lazy_singleton.coverage" NAME="02_lazy_singleton Coverage Results" MODIFIED="1596817040151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/designpattern" />
     <SUITE FILE_PATH="coverage/python08$StrDemo01.coverage" NAME="StrDemo01 Coverage Results" MODIFIED="1586970057659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
     <SUITE FILE_PATH="coverage/python08$LoopPractice2.coverage" NAME="LoopPractice2 Coverage Results" MODIFIED="1593977685847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loop" />
     <SUITE FILE_PATH="coverage/python08$SetDemo01.coverage" NAME="SetDemo01 Coverage Results" MODIFIED="1587067051397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/set" />
