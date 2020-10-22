@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7453c8c-de4d-4043-8fad-6df7abb2de67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/process/_04_process_global_variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process/_05_sub_proceess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread/_01_multi_thread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread/_02_thread_global_variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread/_03_thread_global_variable_error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread/_04_dead_thread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread/_05_dead_thread_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/tcp_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/tcp_multi_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/tcp_server.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/process/01_multi_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/process/_01_multi_process.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,16 +38,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/thread" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/network" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/network" />
       <recent name="$PROJECT_DIR$/thread" />
       <recent name="$PROJECT_DIR$/designpattern" />
       <recent name="$PROJECT_DIR$/poly" />
       <recent name="$PROJECT_DIR$/module" />
-      <recent name="$PROJECT_DIR$/homework" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/html" />
@@ -74,51 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python._05_dead_thread_demo">
-    <configuration name="_01_multi_thread" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python08" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thread" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thread/_01_multi_thread.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="_02_thread_global_variable" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python08" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thread" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thread/_02_thread_global_variable.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.tcp_client">
     <configuration name="_03_thread_global_variable_error" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python08" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,13 +136,64 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tcp_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python08" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/network" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network/tcp_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tcp_server" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true">
+      <module name="python08" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/network" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network/tcp_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python._03_thread_global_variable_error" />
+      <item itemvalue="Python._04_dead_thread" />
+      <item itemvalue="Python._05_dead_thread_demo" />
+      <item itemvalue="Python.tcp_server" />
+      <item itemvalue="Python.tcp_client" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tcp_client" />
+        <item itemvalue="Python.tcp_server" />
         <item itemvalue="Python._05_dead_thread_demo" />
         <item itemvalue="Python._04_dead_thread" />
         <item itemvalue="Python._03_thread_global_variable_error" />
-        <item itemvalue="Python._02_thread_global_variable" />
-        <item itemvalue="Python._01_multi_thread" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +258,11 @@
       <workItem from="1597458844687" duration="28000" />
       <workItem from="1598370254003" duration="118000" />
       <workItem from="1602106195109" duration="2839000" />
-      <workItem from="1602271965524" duration="6669000" />
+      <workItem from="1602271965524" duration="7262000" />
+      <workItem from="1602285012750" duration="530000" />
+      <workItem from="1602704139148" duration="441000" />
+      <workItem from="1602876635536" duration="6866000" />
+      <workItem from="1603395212744" duration="856000" />
     </task>
     <task id="LOCAL-00001" summary="add new code">
       <created>1586385697129</created>
@@ -342,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602272159111</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add thread">
+      <created>1602280495190</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1602280495190</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,7 +385,8 @@
     <MESSAGE value="add studentsystem" />
     <MESSAGE value="add dp" />
     <MESSAGE value="add process" />
-    <option name="LAST_COMMIT_MESSAGE" value="add process" />
+    <MESSAGE value="add thread" />
+    <option name="LAST_COMMIT_MESSAGE" value="add thread" />
   </component>
   <component name="WindowStateProjectService">
     <state x="344" y="60" key="CommitChangelistDialog2" timestamp="1586385905940">
@@ -519,6 +533,7 @@
     <SUITE FILE_PATH="coverage/python08$Dp03_Factory.coverage" NAME="Dp03_Factory Coverage Results" MODIFIED="1596210232942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/designpattern" />
     <SUITE FILE_PATH="coverage/python08$SumNums.coverage" NAME="SumNums Coverage Results" MODIFIED="1588616159196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recursion" />
     <SUITE FILE_PATH="coverage/python08$04_bus.coverage" NAME="04_bus Coverage Results" MODIFIED="1584571565030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python08$tcp_server.coverage" NAME="tcp_server Coverage Results" MODIFIED="1603396975620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network" />
     <SUITE FILE_PATH="coverage/python08$05_guess.coverage" NAME="05_guess Coverage Results" MODIFIED="1584568132696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$StrDemo07.coverage" NAME="StrDemo07 Coverage Results" MODIFIED="1585692763551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
     <SUITE FILE_PATH="coverage/python08$ForForPractice2.coverage" NAME="ForForPractice2 Coverage Results" MODIFIED="1585344534198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -540,6 +555,7 @@
     <SUITE FILE_PATH="coverage/python08$Type.coverage" NAME="Type Coverage Results" MODIFIED="1593207129378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
     <SUITE FILE_PATH="coverage/python08$_01_multi_thread.coverage" NAME="_01_multi_thread Coverage Results" MODIFIED="1602275427382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
     <SUITE FILE_PATH="coverage/python08$Fib.coverage" NAME="Fib Coverage Results" MODIFIED="1588613596817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recursion" />
+    <SUITE FILE_PATH="coverage/python08$tcp_client.coverage" NAME="tcp_client Coverage Results" MODIFIED="1603397030867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network" />
     <SUITE FILE_PATH="coverage/python08$listpractice07.coverage" NAME="listpractice07 Coverage Results" MODIFIED="1587501657364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
     <SUITE FILE_PATH="coverage/python08$02_ifAndElse.coverage" NAME="02_ifAndElse Coverage Results" MODIFIED="1584564628163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$_04_dead_thread.coverage" NAME="_04_dead_thread Coverage Results" MODIFIED="1602278008205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
