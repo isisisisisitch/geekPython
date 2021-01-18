@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7453c8c-de4d-4043-8fad-6df7abb2de67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basic/review/Demo01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/review/Demo02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/review/Demo03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/review/Demo04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/review/Demo05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/review/Demo06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/review/Demo07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/review/Demo08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/review/Demo09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/review/Demo10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/review/Demo11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/review/Demo12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/review/Demo13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/review/Demo14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/review/Demo15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/review/Demo16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/review/Demo17.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/BubbleSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sort/BubbleSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/SelectionSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sort/SelectionSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/review/Demo07.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/review/Demo07.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,19 +47,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/basic/review" />
-      <recent name="$PROJECT_DIR$/http/static" />
-      <recent name="$PROJECT_DIR$/http" />
-      <recent name="$PROJECT_DIR$/network" />
-      <recent name="$PROJECT_DIR$/thread" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/html" />
       <recent name="$PROJECT_DIR$/basic" />
       <recent name="$PROJECT_DIR$/tuple" />
       <recent name="$PROJECT_DIR$/tupleDemo01" />
       <recent name="$PROJECT_DIR$/loop" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/basic/review" />
+      <recent name="$PROJECT_DIR$/http/static" />
+      <recent name="$PROJECT_DIR$/http" />
+      <recent name="$PROJECT_DIR$/network" />
+      <recent name="$PROJECT_DIR$/thread" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -78,8 +74,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Demo10">
-    <configuration name="Demo06" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Demo17">
+    <configuration name="Demo13" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python08" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +88,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/review/Demo06.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/review/Demo13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Demo07" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Demo14" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python08" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +110,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/review/Demo07.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/review/Demo14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Demo08" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Demo15" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python08" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +132,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/review/Demo08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/review/Demo15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Demo09" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Demo16" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python08" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,7 +154,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/review/Demo09.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/review/Demo16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Demo10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Demo17" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python08" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -180,7 +176,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/review/Demo10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/review/Demo17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,19 +186,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Demo06" />
-      <item itemvalue="Python.Demo07" />
-      <item itemvalue="Python.Demo08" />
-      <item itemvalue="Python.Demo09" />
-      <item itemvalue="Python.Demo10" />
+      <item itemvalue="Python.Demo13" />
+      <item itemvalue="Python.Demo14" />
+      <item itemvalue="Python.Demo15" />
+      <item itemvalue="Python.Demo16" />
+      <item itemvalue="Python.Demo17" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Demo10" />
-        <item itemvalue="Python.Demo09" />
-        <item itemvalue="Python.Demo08" />
-        <item itemvalue="Python.Demo07" />
-        <item itemvalue="Python.Demo06" />
+        <item itemvalue="Python.Demo17" />
+        <item itemvalue="Python.Demo16" />
+        <item itemvalue="Python.Demo15" />
+        <item itemvalue="Python.Demo14" />
+        <item itemvalue="Python.Demo13" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +272,10 @@
       <workItem from="1605129532024" duration="467000" />
       <workItem from="1607220323815" duration="3552000" />
       <workItem from="1607721226132" duration="2955000" />
-      <workItem from="1609964408835" duration="4398000" />
+      <workItem from="1609964408835" duration="4588000" />
+      <workItem from="1610137725704" duration="2675000" />
+      <workItem from="1610569874698" duration="6598000" />
+      <workItem from="1610999519319" duration="7628000" />
     </task>
     <task id="LOCAL-00001" summary="add new code">
       <created>1586385697129</created>
@@ -383,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603490972431</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add review1">
+      <created>1609975055494</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1609975055494</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -416,7 +422,8 @@
     <MESSAGE value="add thread" />
     <MESSAGE value="add network" />
     <MESSAGE value="add http" />
-    <option name="LAST_COMMIT_MESSAGE" value="add http" />
+    <MESSAGE value="add review1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add review1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="344" y="60" key="CommitChangelistDialog2" />
@@ -502,11 +509,14 @@
     <SUITE FILE_PATH="coverage/python08$_05_dead_thread_demo.coverage" NAME="_05_dead_thread_demo Coverage Results" MODIFIED="1602280332616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
     <SUITE FILE_PATH="coverage/python08$polyDemo03.coverage" NAME="polyDemo03 Coverage Results" MODIFIED="1595804308136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/poly" />
     <SUITE FILE_PATH="coverage/python08$LazySingleton.coverage" NAME="LazySingleton Coverage Results" MODIFIED="1596209453305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/designpattern" />
+    <SUITE FILE_PATH="coverage/python08$Demo16.coverage" NAME="Demo16 Coverage Results" MODIFIED="1611002798007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/review" />
     <SUITE FILE_PATH="coverage/python08$StrDemo04.coverage" NAME="StrDemo04 Coverage Results" MODIFIED="1585687811220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
     <SUITE FILE_PATH="coverage/python08$GlobalVariable.coverage" NAME="GlobalVariable Coverage Results" MODIFIED="1588009679522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
     <SUITE FILE_PATH="coverage/python08$StrDemo05.coverage" NAME="StrDemo05 Coverage Results" MODIFIED="1585691413383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
     <SUITE FILE_PATH="coverage/python08$ListDemo05.coverage" NAME="ListDemo05 Coverage Results" MODIFIED="1586462529468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
+    <SUITE FILE_PATH="coverage/python08$Demo11.coverage" NAME="Demo11 Coverage Results" MODIFIED="1610142517405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/review" />
     <SUITE FILE_PATH="coverage/python08$Demo__1_.coverage" NAME="Demo (1) Coverage Results" MODIFIED="1609964777819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tuple" />
+    <SUITE FILE_PATH="coverage/python08$Demo17.coverage" NAME="Demo17 Coverage Results" MODIFIED="1611011753556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/review" />
     <SUITE FILE_PATH="coverage/python08$whilePractice2.coverage" NAME="whilePractice2 Coverage Results" MODIFIED="1585172047622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$_03_process_args.coverage" NAME="_03_process_args Coverage Results" MODIFIED="1602108430796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/process" />
     <SUITE FILE_PATH="coverage/python08$InsertSort.coverage" NAME="InsertSort Coverage Results" MODIFIED="1587508546040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort" />
@@ -519,6 +529,7 @@
     <SUITE FILE_PATH="coverage/python08$listpractice03.coverage" NAME="listpractice03 Coverage Results" MODIFIED="1587500348633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
     <SUITE FILE_PATH="coverage/python08$Index.coverage" NAME="Index Coverage Results" MODIFIED="1588013915225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
     <SUITE FILE_PATH="coverage/python08$test.coverage" NAME="test Coverage Results" MODIFIED="1591309026797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mypackage" />
+    <SUITE FILE_PATH="coverage/python08$Demo15.coverage" NAME="Demo15 Coverage Results" MODIFIED="1610999714819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/review" />
     <SUITE FILE_PATH="coverage/python08$extendsDemo08.coverage" NAME="extendsDemo08 Coverage Results" MODIFIED="1590544170438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/extends" />
     <SUITE FILE_PATH="coverage/python08$ListDemo12.coverage" NAME="ListDemo12 Coverage Results" MODIFIED="1586464920204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
     <SUITE FILE_PATH="coverage/python08$Dp05_Proxy.coverage" NAME="Dp05_Proxy Coverage Results" MODIFIED="1596231856453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/designpattern" />
@@ -538,6 +549,7 @@
     <SUITE FILE_PATH="coverage/python08$AccountSysten.coverage" NAME="AccountSysten Coverage Results" MODIFIED="1609967054662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
     <SUITE FILE_PATH="coverage/python08$sort1.coverage" NAME="sort1 Coverage Results" MODIFIED="1586471334192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort" />
     <SUITE FILE_PATH="coverage/python08$tupleDemo02.coverage" NAME="tupleDemo02 Coverage Results" MODIFIED="1586979553462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tuple" />
+    <SUITE FILE_PATH="coverage/python08$Demo13.coverage" NAME="Demo13 Coverage Results" MODIFIED="1610577284041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/review" />
     <SUITE FILE_PATH="coverage/python08$whilePractice4.coverage" NAME="whilePractice4 Coverage Results" MODIFIED="1585175720764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$BubbleSort.coverage" NAME="BubbleSort Coverage Results" MODIFIED="1588530328241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
     <SUITE FILE_PATH="coverage/python08$Dp03_Factory.coverage" NAME="Dp03_Factory Coverage Results" MODIFIED="1596210232942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/designpattern" />
@@ -545,7 +557,7 @@
     <SUITE FILE_PATH="coverage/python08$04_bus.coverage" NAME="04_bus Coverage Results" MODIFIED="1584571565030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$tcp_server.coverage" NAME="tcp_server Coverage Results" MODIFIED="1603396975620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network" />
     <SUITE FILE_PATH="coverage/python08$05_guess.coverage" NAME="05_guess Coverage Results" MODIFIED="1584568132696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python08$Demo07.coverage" NAME="Demo07 Coverage Results" MODIFIED="1609970657194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/review" />
+    <SUITE FILE_PATH="coverage/python08$Demo07.coverage" NAME="Demo07 Coverage Results" MODIFIED="1610139158646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/review" />
     <SUITE FILE_PATH="coverage/python08$StrDemo07.coverage" NAME="StrDemo07 Coverage Results" MODIFIED="1585692763551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
     <SUITE FILE_PATH="coverage/python08$ForForPractice2.coverage" NAME="ForForPractice2 Coverage Results" MODIFIED="1585344534198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$ExceptionDemo05.coverage" NAME="ExceptionDemo05 Coverage Results" MODIFIED="1591302889965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exception" />
@@ -597,6 +609,7 @@
     <SUITE FILE_PATH="coverage/python08$Quiz.coverage" NAME="Quiz Coverage Results" MODIFIED="1590700944445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/extends" />
     <SUITE FILE_PATH="coverage/python08$01_ifBasic.coverage" NAME="01_ifBasic Coverage Results" MODIFIED="1584564555681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$extends_demo07.coverage" NAME="extends_demo07 Coverage Results" MODIFIED="1590539202513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/extends" />
+    <SUITE FILE_PATH="coverage/python08$Demo12.coverage" NAME="Demo12 Coverage Results" MODIFIED="1610573428871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/review" />
     <SUITE FILE_PATH="coverage/python08$StrDemo12.coverage" NAME="StrDemo12 Coverage Results" MODIFIED="1585772346593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/str" />
     <SUITE FILE_PATH="coverage/python08$ForPractice2.coverage" NAME="ForPractice2 Coverage Results" MODIFIED="1585338864785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python08$LoopPractice.coverage" NAME="LoopPractice Coverage Results" MODIFIED="1585344112432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -635,5 +648,6 @@
     <SUITE FILE_PATH="coverage/python08$tupleDemo01.coverage" NAME="tupleDemo01 Coverage Results" MODIFIED="1586979453641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tuple" />
     <SUITE FILE_PATH="coverage/python08$extends_demo05.coverage" NAME="extends_demo05 Coverage Results" MODIFIED="1589853408023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/extends" />
     <SUITE FILE_PATH="coverage/python08$DictDemo02.coverage" NAME="DictDemo02 Coverage Results" MODIFIED="1586980852409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dic" />
+    <SUITE FILE_PATH="coverage/python08$Demo14.coverage" NAME="Demo14 Coverage Results" MODIFIED="1610579158298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/review" />
   </component>
 </project>
